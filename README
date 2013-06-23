@@ -1,6 +1,210 @@
 AuctionHandler system, written by James.
 
-
 TODO: 
 
 Write a whole database to load and read items.
+
+
+
+LAST AUCTION:
+
+Auction: 1
+Amount of items sold: 9 with a price of: 4257
+Auction: 2
+Amount of items sold: 13 with a price of: 2619
+Auction: 3
+Amount of items sold: 4 with a price of: 3346
+Auction: 4
+Amount of items sold: 4 with a price of: 3821
+Auction: 5
+Amount of items sold: 11 with a price of: 1013
+Auction: 6
+Amount of items sold: 4 with a price of: 4003
+Auction: 7
+Amount of items sold: 5 with a price of: 2176
+Auction: 8
+Amount of items sold: 2 with a price of: 462
+Auction: 9
+Amount of items sold: 17 with a price of: 5152
+Auction: 10
+Amount of items sold: 3 with a price of: 1143
+Auction: 11
+Amount of items sold: 18 with a price of: 1878
+Auction: 12
+Amount of items sold: 15 with a price of: 3264
+Auction: 13
+Amount of items sold: 13 with a price of: 5427
+Auction: 14
+Amount of items sold: 11 with a price of: 3742
+Auction: 15
+Amount of items sold: 5 with a price of: 3617
+Auction: 16
+Amount of items sold: 13 with a price of: 1187
+Auction: 17
+Amount of items sold: 21 with a price of: 1282
+Auction: 18
+Amount of items sold: 15 with a price of: 3932
+Auction: 19
+Amount of items sold: 21 with a price of: 345
+Auction: 20
+Amount of items sold: 2 with a price of: 1470
+Auction: 21
+Amount of items sold: 5 with a price of: 1525
+Auction: 22
+Amount of items sold: 21 with a price of: 2506
+Auction: 23
+Amount of items sold: 15 with a price of: 2104
+Auction: 24
+Amount of items sold: 4 with a price of: 3686
+Auction: 25
+Amount of items sold: 19 with a price of: 4534
+Auction: 26
+Amount of items sold: 7 with a price of: 1480
+Auction: 27
+Amount of items sold: 9 with a price of: 5032
+Auction: 28
+Amount of items sold: 11 with a price of: 2931
+Auction: 29
+Amount of items sold: 3 with a price of: 1623
+Auction: 30
+Amount of items sold: 0 with a price of: 619
+Auction: 31
+Amount of items sold: 0 with a price of: 2353
+Auction: 32
+Amount of items sold: 11 with a price of: 465
+Auction: 33
+Amount of items sold: 5 with a price of: 3555
+Auction: 34
+Amount of items sold: 16 with a price of: 1399
+Auction: 35
+Amount of items sold: 9 with a price of: 626
+Auction: 36
+Amount of items sold: 8 with a price of: 2189
+Auction: 37
+Amount of items sold: 14 with a price of: 2945
+Auction: 38
+Amount of items sold: 8 with a price of: 1548
+Auction: 39
+Amount of items sold: 18 with a price of: 4812
+Auction: 40
+Amount of items sold: 13 with a price of: 1713
+Auction: 41
+Amount of items sold: 18 with a price of: 1861
+Auction: 42
+Amount of items sold: 0 with a price of: 3340
+Auction: 43
+Amount of items sold: 13 with a price of: 299
+Auction: 44
+Amount of items sold: 18 with a price of: 902
+Auction: 45
+Amount of items sold: 2 with a price of: 914
+Auction: 46
+Amount of items sold: 21 with a price of: 5170
+Auction: 47
+Amount of items sold: 6 with a price of: 3744
+Auction: 48
+Amount of items sold: 16 with a price of: 2141
+Auction: 49
+Amount of items sold: 18 with a price of: 4885
+Auction: 50
+Amount of items sold: 17 with a price of: 48
+Auction: 51
+Amount of items sold: 7 with a price of: 5038
+Auction: 52
+Amount of items sold: 10 with a price of: 690
+Auction: 53
+Amount of items sold: 5 with a price of: 2283
+Auction: 54
+Amount of items sold: 7 with a price of: 225
+Auction: 55
+Amount of items sold: 10 with a price of: 3782
+Auction: 56
+Amount of items sold: 6 with a price of: 2942
+Auction: 57
+Amount of items sold: 8 with a price of: 2085
+Auction: 58
+Amount of items sold: 14 with a price of: 2211
+Auction: 59
+Amount of items sold: 16 with a price of: 1605
+Auction: 60
+Amount of items sold: 18 with a price of: 3770
+Auction: 61
+Amount of items sold: 14 with a price of: 1507
+Auction: 62
+Amount of items sold: 0 with a price of: 2931
+Auction: 63
+Amount of items sold: 14 with a price of: 5306
+Auction: 64
+Amount of items sold: 13 with a price of: 3809
+Auction: 65
+Amount of items sold: 15 with a price of: 972
+Auction: 66
+Amount of items sold: 13 with a price of: 4117
+Auction: 67
+Amount of items sold: 19 with a price of: 1958
+Auction: 68
+Amount of items sold: 5 with a price of: 3367
+Auction: 69
+Amount of items sold: 13 with a price of: 1894
+Auction: 70
+Amount of items sold: 6 with a price of: 4606
+Auction: 71
+Amount of items sold: 0 with a price of: 4837
+Auction: 72
+Amount of items sold: 5 with a price of: 3941
+Auction: 73
+Amount of items sold: 16 with a price of: 3339
+Auction: 74
+Amount of items sold: 8 with a price of: 4720
+Auction: 75
+Amount of items sold: 20 with a price of: 2837
+Auction: 76
+Amount of items sold: 4 with a price of: 854
+Auction: 77
+Amount of items sold: 8 with a price of: 2456
+Auction: 78
+Amount of items sold: 0 with a price of: 3021
+Auction: 79
+Amount of items sold: 2 with a price of: 2143
+Auction: 80
+Amount of items sold: 20 with a price of: 1205
+Auction: 81
+Amount of items sold: 1 with a price of: 97
+Auction: 82
+Amount of items sold: 19 with a price of: 896
+Auction: 83
+Amount of items sold: 20 with a price of: 4067
+Auction: 84
+Amount of items sold: 13 with a price of: 2202
+Auction: 85
+Amount of items sold: 5 with a price of: 3699
+Auction: 86
+Amount of items sold: 21 with a price of: 1866
+Auction: 87
+Amount of items sold: 20 with a price of: 1796
+Auction: 88
+Amount of items sold: 2 with a price of: 3632
+Auction: 89
+Amount of items sold: 17 with a price of: 2532
+Auction: 90
+Amount of items sold: 3 with a price of: 522
+Auction: 91
+Amount of items sold: 14 with a price of: 1084
+Auction: 92
+Amount of items sold: 16 with a price of: 4684
+Auction: 93
+Amount of items sold: 9 with a price of: 2217
+Auction: 94
+Amount of items sold: 12 with a price of: 1727
+Auction: 95
+Amount of items sold: 14 with a price of: 5376
+Auction: 96
+Amount of items sold: 21 with a price of: 2938
+Auction: 97
+Amount of items sold: 10 with a price of: 2946
+Auction: 98
+Amount of items sold: 7 with a price of: 2278
+Auction: 99
+Amount of items sold: 6 with a price of: 4688
+Auction: 100
+Amount of items sold: 6 with a price of: 462
