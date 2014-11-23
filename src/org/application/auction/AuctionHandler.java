@@ -5,7 +5,7 @@ public class AuctionHandler {
 	/**
 	 * The integers to hold both the price and amount of items;
 	 */
-	int price, amount;
+	private int price, amount;
 	
 	/**
 	 * Our constructor for the AuctionHandler class.
